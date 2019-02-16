@@ -1,5 +1,8 @@
 package com.chao.leetcode.simple;
 
+/**
+ * 两数之和
+ */
 public class Question1 {
     public static void main(String[] args) {
         int[] nums = {2,3,3,4};
